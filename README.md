@@ -1,70 +1,50 @@
 # 👋 Hi, I'm Guilherme Alcântara
 
-I hold postgraduate degrees in **Software Engineering**, **Game Design**, and **Artificial Intelligence**, with a strong interest in software development, system design, and well-structured, maintainable code.
+Software Developer with postgraduate education in **Software Engineering**, **Game Design**, and **Artificial Intelligence**.
 
-I am currently seeking opportunities in **early-career software development roles**, aiming to apply my academic background to real-world projects while continuing to grow professionally across different industries and domains.
+I work with software development across multiple domains, focusing on **clean, maintainable code**, **system architecture**, and **problem-solving**. My background allows me to adapt to different industries, including general software development, game development, and applied AI.
+
+I am currently seeking **internship or junior-level opportunities**, aiming to contribute to real-world projects, learn from experienced teams, and deliver reliable, well-structured solutions.
 
 ---
 
 ### 🔭 I’m currently working on
-Hands-on projects focused on software development across different domains, emphasizing logic, system architecture, clean code, and industry best practices.
+Practical software projects involving application logic, system design, and structured architectures, following clean code principles and industry best practices.
 
 ### 🌱 I’m currently deepening my knowledge in
-Applied software engineering, system architecture, scalable solutions, and practical artificial intelligence.
-
-### 👯 I’m looking to collaborate on
-Software development projects across different industries, especially those involving programming, system design, problem-solving, and collaborative learning.
-
-### 🤔 I’m looking for help with
-Gaining real-world industry experience, code reviews, architectural decision-making, and understanding professional development workflows.
+Applied software engineering, scalable system architecture, system and gameplay design, and practical artificial intelligence.
 
 ### 💬 Ask me about
-Software engineering, system design, programming logic, artificial intelligence fundamentals, and project organization.
+Software engineering, system architecture, programming logic, artificial intelligence fundamentals, and project organization.
 
 ### 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
-- GitHub: *(you’re already here 😄)*
-
-### 😄 Pronouns
-He / Him
-
-### ⚡ Fun fact
-I enjoy analyzing how well-designed systems directly influence usability, performance, and user or player experience.
+- LinkedIn: https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
+- GitHub: You’re already here 😄  
 
 ---
 
 # 👋 Olá, eu sou Guilherme Alcântara
 
-Sou pós-graduado em **Engenharia de Software**, **Game Design** e **Inteligência Artificial**, com foco em desenvolvimento de software, design de sistemas e soluções orientadas a código limpo, escalável e bem arquitetado.
+Desenvolvedor de Software com formação em pós-graduação em **Engenharia de Software**, **Game Design** e **Inteligência Artificial**.
 
-Atualmente busco oportunidades em **cargos iniciais da área de desenvolvimento de software**, onde eu possa aplicar meus conhecimentos acadêmicos em projetos reais, atuar em diferentes domínios e evoluir tecnicamente de forma consistente.
+Atuo no desenvolvimento de software em diferentes contextos, com foco em **código limpo**, **arquitetura de sistemas**, e **resolução de problemas**. Minha formação me permite trabalhar de forma flexível em múltiplas áreas, como desenvolvimento de software, jogos e inteligência artificial aplicada.
+
+Atualmente busco oportunidades como **estagiário ou desenvolvedor júnior**, com o objetivo de contribuir em projetos reais, evoluir tecnicamente e entregar soluções bem estruturadas e sustentáveis.
 
 ---
 
 ### 🔭 Atualmente estou trabalhando em
-Projetos práticos voltados para desenvolvimento de software em diferentes contextos, com foco em lógica, arquitetura de sistemas, boas práticas e organização de código.
+Projetos práticos de software envolvendo lógica de aplicações, design de sistemas e arquiteturas bem definidas, seguindo boas práticas e padrões do mercado.
 
 ### 🌱 Atualmente estou aprofundando meus conhecimentos em
-Engenharia de software aplicada, arquitetura de sistemas, soluções escaláveis e inteligência artificial na prática.
-
-### 👯 Procuro colaborar em
-Projetos de desenvolvimento de software em diferentes setores, especialmente aqueles que envolvam programação, design de sistemas, resolução de problemas e aprendizado em equipe.
-
-### 🤔 Procuro ajuda com
-Vivência em ambientes profissionais, revisão de código, tomada de decisões arquiteturais e práticas utilizadas no mercado.
+Engenharia de software aplicada, arquitetura de sistemas escaláveis, design de sistemas e gameplay, e inteligência artificial na prática.
 
 ### 💬 Pergunte-me sobre
-Engenharia de software, design de sistemas, lógica de programação, fundamentos de IA e organização de projetos.
+Engenharia de software, arquitetura de sistemas, lógica de programação, fundamentos de inteligência artificial e organização de projetos.
 
 ### 📫 Como me encontrar
-- LinkedIn: www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
-- GitHub: *(você já está aqui 😄)*
-
-### 😄 Pronomes
-Ele / Dele
-
-### ⚡ Curiosidade
-Tenho grande interesse em entender como sistemas bem projetados impactam diretamente a eficiência, a usabilidade e a experiência do usuário.
+- LinkedIn: https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
+- GitHub: Você já está aqui 😄  
 
 ---
 
@@ -98,7 +78,6 @@ Tenho grande interesse em entender como sistemas bem projetados impactam diretam
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermeabaoliveira&style=flat&color=blue)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake-dark.svg">
