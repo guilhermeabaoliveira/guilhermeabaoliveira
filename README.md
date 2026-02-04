@@ -98,3 +98,10 @@ Tenho grande interesse em entender como sistemas bem projetados impactam diretam
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermeabaoliveira&style=flat&color=blue)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg">
+</picture>
