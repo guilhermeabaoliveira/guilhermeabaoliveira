@@ -84,6 +84,10 @@ Tenho grande interesse em entender como sistemas bem projetados impactam diretam
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### 🤖 Artificial Intelligence | Inteligência Artificial
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-5C2D91?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+
 ---
 
 ### 📊 GitHub Stats ⭐
