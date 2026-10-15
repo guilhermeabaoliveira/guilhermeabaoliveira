@@ -1,76 +1,60 @@
-# 👋 Hi, I'm Guilherme Alcântara
+# Guilherme Alcântara
 
-Software Developer with postgraduate education in **Software Engineering**, **Game Design**, and **Artificial Intelligence**.
+Software Developer · Desenvolvedor de Software
 
-I work with software development across multiple domains, focusing on **clean, maintainable code**, **system architecture**, and **problem-solving**. My background allows me to adapt to different industries, including general software development, game development, and applied AI.
+[LinkedIn](https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira) · [English](#about-me) · [Português](#sobre-mim)
 
-I am currently seeking **internship or junior-level opportunities**, aiming to contribute to real-world projects, learn from experienced teams, and deliver reliable, well-structured solutions.
+## About me
 
----
+Software developer with postgraduate education in **Software Engineering**, **Game Design**, and **Artificial Intelligence**.
 
-### 🔭 I’m currently working on
-Practical software projects involving application logic, system design, and structured architectures, following clean code principles and industry best practices.
+My interests span application development, system architecture, game development, and applied AI, with an emphasis on readable code, maintainability, and problem-solving.
 
-### 🌱 I’m currently deepening my knowledge in
-Applied software engineering, scalable system architecture, system and gameplay design, and practical artificial intelligence.
+I am seeking **internship or junior-level opportunities** to contribute to software projects, learn from experienced teams, and develop reliable solutions.
 
-### 💬 Ask me about
-Software engineering, system architecture, programming logic, artificial intelligence fundamentals, and project organization.
+### Current focus
 
-### 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
-- GitHub: You’re already here 😄  
+- Practical projects in application logic, system design, and project organization.
+- Further study in software engineering, scalable architectures, system and gameplay design, and artificial intelligence.
 
----
+## Sobre mim
 
-# 👋 Olá, eu sou Guilherme Alcântara
+Desenvolvedor de software com formação em pós-graduação em **Engenharia de Software**, **Game Design** e **Inteligência Artificial**.
 
-Desenvolvedor de Software com formação em pós-graduação em **Engenharia de Software**, **Game Design** e **Inteligência Artificial**.
+Meus interesses abrangem desenvolvimento de aplicações, arquitetura de sistemas, desenvolvimento de jogos e IA aplicada, com foco em legibilidade, manutenção e resolução de problemas.
 
-Atuo no desenvolvimento de software em diferentes contextos, com foco em **código limpo**, **arquitetura de sistemas**, e **resolução de problemas**. Minha formação me permite trabalhar de forma flexível em múltiplas áreas, como desenvolvimento de software, jogos e inteligência artificial aplicada.
+Busco oportunidades como **estagiário ou desenvolvedor júnior** para contribuir em projetos de software, aprender com equipes experientes e desenvolver soluções confiáveis.
 
-Atualmente busco oportunidades como **estagiário ou desenvolvedor júnior**, com o objetivo de contribuir em projetos reais, evoluir tecnicamente e entregar soluções bem estruturadas e sustentáveis.
+### Foco atual
 
----
-
-### 🔭 Atualmente estou trabalhando em
-Projetos práticos de software envolvendo lógica de aplicações, design de sistemas e arquiteturas bem definidas, seguindo boas práticas e padrões do mercado.
-
-### 🌱 Atualmente estou aprofundando meus conhecimentos em
-Engenharia de software aplicada, arquitetura de sistemas escaláveis, design de sistemas e gameplay, e inteligência artificial na prática.
-
-### 💬 Pergunte-me sobre
-Engenharia de software, arquitetura de sistemas, lógica de programação, fundamentos de inteligência artificial e organização de projetos.
-
-### 📫 Como me encontrar
-- LinkedIn: https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira  
-- GitHub: Você já está aqui 😄  
+- Projetos práticos de lógica de aplicações, design de sistemas e organização de projetos.
+- Aprofundamento em engenharia de software, arquiteturas escaláveis, design de sistemas e gameplay, e inteligência artificial.
 
 ---
 
-### 💻 Languages | Linguagens
+## Languages | Linguagens
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎮 Engines & Frameworks | Engines & Frameworks
+## Engines & Frameworks | Engines e frameworks
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-### 🗄️ Databases | Bancos de Dados
+## Databases | Bancos de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Platforms | Ferramentas & Plataformas
+## Tools & Platforms | Ferramentas e plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🤖 Artificial Intelligence | Inteligência Artificial
+## Artificial Intelligence | Inteligência artificial
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-5C2D91?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats ⭐
+## GitHub activity | Atividade no GitHub
 
 <div align="center">
   <img alt="Guilherme's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeabaoliveira&show_icons=true&theme=transparent"/>
