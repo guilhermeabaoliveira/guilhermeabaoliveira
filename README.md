@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:1f6feb&amp;height=170&amp;section=header&amp;text=Guilherme%20Alc%C3%A2ntara&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=36" alt="Guilherme Alcântara" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3500&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+CESAR+School;APIs+%C2%B7+Web+%C2%B7+Game+Development" width="85%" alt="Ciência da Computação na CESAR School; APIs, Web e Game Development" /></a>
+  <a href="https://github.com/hackwithdev/pixelartgifs#10"><img width="640" src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" alt="Pixel art animada de uma estação futurista com monitores holográficos e uma cidade ao fundo" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=Guilherme+Alc%C3%A2ntara;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+CESAR+School;APIs+%C2%B7+Web+%C2%B7+Game+Development" width="560" alt="Guilherme Alcântara — Ciência da Computação na CESAR School; APIs, Web e Game Development" /></a>
 </p>
 
 <p align="center">
