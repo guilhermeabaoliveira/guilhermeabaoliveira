@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - .github/workflows/main.yml
+      - .github/scripts/recent_activity.py
 
 jobs:
   generate:
@@ -17,6 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+      - name: Generate recent activity chart
+        run: python3 .github/scripts/recent_activity.py
       - name: Generate contribution animations
         uses: Platane/snk/svg-only@v3
         with:

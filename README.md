@@ -25,7 +25,7 @@
   <img width="100%" alt="Commits feitos em 2026" src="https://github-readme-stats.vercel.app/api?username=guilhermeabaoliveira&amp;commits_year=2026&amp;include_all_commits=false&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;show_icons=true&amp;custom_title=Commits%20em%202026&amp;bg_color=0f1724&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=1f6feb&amp;hide_border=false&amp;border_radius=8&amp;card_width=700" />
 </p>
 <p align="center">
-  <a href="https://github.com/guilhermeabaoliveira?tab=overview"><img width="100%" alt="Contribuições no GitHub nos últimos 31 dias" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeabaoliveira&amp;days=31&amp;bg_color=0f1724&amp;color=c9d1d9&amp;title_color=58a6ff&amp;line=1f6feb&amp;point=58a6ff&amp;area=true&amp;area_color=1f6feb&amp;border_color=1f6feb&amp;hide_border=false&amp;radius=8&amp;height=250&amp;custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" /></a>
+  <a href="https://github.com/guilhermeabaoliveira?tab=overview"><img width="100%" alt="Contribuições no GitHub nos últimos 31 dias" src="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/recent-activity.svg" /></a>
 </p>
 
 <p align="center">
@@ -37,9 +37,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake-dark.svg?v=blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg?v=blue" />
+  <img width="100%" alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake.svg?v=blue" />
 </picture>
 
 <details>
