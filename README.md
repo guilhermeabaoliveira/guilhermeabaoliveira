@@ -90,5 +90,5 @@ Selected projects include a full stack bug tracker, automated API tests, and a t
 </picture>
 
 <p align="center">
-  <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=guilhermeabaoliveira&amp;style=flat&amp;color=blue" />
+  <a href="https://github.com/guilhermeabaoliveira?tab=repositories">Explore os repositórios</a>
 </p>
