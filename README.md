@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira"><img src="https://img.shields.io/badge/LinkedIn-Contato-81718e?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=242333" alt="Contato pelo LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira"><img src="assets/linkedin.svg" alt="Contato pelo LinkedIn" /></a>
   <a href="#projetos-selecionados"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Projetos-b6c8b0?style=flat-square&amp;labelColor=242333" alt="Ver projetos selecionados" /></a>
   <a href="#english"><img src="https://img.shields.io/badge/Read_in-English-dcae96?style=flat-square&amp;labelColor=242333" alt="Read in English" /></a>
 </p>
@@ -34,7 +34,7 @@ Linguagens, ferramentas e áreas presentes nos meus estudos e projetos.
 
 ![C#](https://img.shields.io/badge/C%23-c4b4d9?style=for-the-badge&logo=c-sharp&logoColor=242333)
 ![Python](https://img.shields.io/badge/Python-c4b4d9?style=for-the-badge&logo=python&logoColor=242333)
-![Java](https://img.shields.io/badge/Java-c4b4d9?style=for-the-badge&logo=openjdk&logoColor=242333)
+![Java](assets/java.svg)
 
 **Jogos e experiências interativas**
 
