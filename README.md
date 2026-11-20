@@ -27,10 +27,27 @@ Desde 2023 construo projetos que juntam hardware, software e IA, e agora busco m
 </p>
 
 
-<table align="center">
-  <tr><td><b>Em andamento</b></td><td>Lidero o Grupo 12 de Projetos I na <a href="https://github.com/guilhermeabaoliveira/bussola-fluxo-urbano">Bússola de Fluxo Urbano</a></td></tr>
-  <tr><td><b>Entregue</b></td><td><a href="https://github.com/guilhermeabaoliveira/sentinela-log">SentinelaLog</a>, Fundamentos de Programação, novembro de 2026</td></tr>
-  <tr><td><b>Estudo</b></td><td><a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro">Bug Tracker Pro</a>, <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api">APIs com FastAPI</a> e <a href="https://github.com/guilhermeabaoliveira/api-automated-tests">testes automatizados</a></td></tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/guilhermeabaoliveira/bussola-fluxo-urbano"><img width="100%" src="assets/bussola.jpg" alt="Modelo 3D da maquete da Bússola de Fluxo Urbano" /></a>
+      <h3>Bússola de Fluxo Urbano</h3>
+      <p>Maquete com sensores e Arduino que aponta a rota mais movimentada. Lidero a equipe de oito pessoas.</p>
+      <p><a href="https://guilhermeabaoliveira.github.io/bussola-fluxo-urbano/atlas-3d/">Maquete 3D</a> · <a href="https://github.com/guilhermeabaoliveira/bussola-fluxo-urbano">Código</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/guilhermeabaoliveira/sentinela-log"><img width="100%" src="assets/sentinelalog.jpg" alt="Tela de acessos do SentinelaLog com risco e motivo de cada registro" /></a>
+      <h3>SentinelaLog</h3>
+      <p>Monitor de acessos em Python que classifica o risco e explica o motivo de cada alerta.</p>
+      <p><a href="https://github.com/guilhermeabaoliveira/sentinela-log/releases/tag/v2026.11.18-final.2">Baixar para Windows</a> · <a href="https://github.com/guilhermeabaoliveira/sentinela-log">Código</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro"><img width="100%" src="assets/bugtracker.jpg" alt="Painel do Bug Tracker Pro" /></a>
+      <h3>Bug Tracker Pro</h3>
+      <p>Painel em React com API em FastAPI para registrar bugs e acompanhar a gravidade.</p>
+      <p><a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro">Código</a></p>
+    </td>
+  </tr>
 </table>
 
 
