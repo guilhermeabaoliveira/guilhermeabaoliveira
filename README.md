@@ -1,16 +1,22 @@
 <p align="center">
   <a href="https://github.com/hackwithdev/pixelartgifs#10"><img width="640" src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" alt="Pixel art animada de uma estação futurista com monitores holográficos e uma cidade ao fundo" /></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=Guilherme+Alc%C3%A2ntara;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+CESAR+School;APIs+%C2%B7+Web+%C2%B7+Game+Development" width="560" alt="Guilherme Alcântara — Ciência da Computação na CESAR School; APIs, Web e Game Development" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=Guilherme+Alc%C3%A2ntara;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+CESAR+School;Do+Direito+para+o+c%C3%B3digo" width="560" alt="Guilherme Alcântara — Ciência da Computação na CESAR School; APIs, Web e Game Development" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/guilhermeabaoliveira?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1f6feb?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios" /></a>
+  <a href="https://guilhermeabaoliveira.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1f6feb?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="mailto:guilhermealcantara90@hotmail.com"><img src="https://img.shields.io/badge/E--mail-1f6feb?style=for-the-badge" alt="E-mail" /></a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cs,java,react,fastapi,mysql,git,unity,unreal&amp;theme=dark&amp;perline=9" width="85%" alt="Tecnologias de estudos e projetos, com suas cores originais: Python, C#, Java, React, FastAPI, MySQL, Git, Unity e Unreal Engine" /></a>
+Bacharel em Direito e estudante de Ciência da Computação na CESAR School.<br>
+Desde 2023 construo projetos que juntam hardware, software e IA, e agora busco meu primeiro estágio na área.
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,arduino,js,react,fastapi,mysql,git,cs,java,unity,unreal&amp;theme=dark&amp;perline=12" width="85%" alt="Tecnologias de estudos e projetos, com suas cores originais: Python, C#, Java, React, FastAPI, MySQL, Git, Unity e Unreal Engine" /></a>
 </p>
 
 <p align="center">
@@ -20,44 +26,13 @@
   <a href="https://github.com/guilhermeabaoliveira?tab=overview"><img width="100%" alt="Contribuições no GitHub nos últimos 31 dias" src="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/recent-activity.svg" /></a>
 </p>
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro"><img src="https://img.shields.io/badge/Bug_Tracker_Pro-Gest%C3%A3o_de_bugs-142238?style=for-the-badge&amp;labelColor=1f6feb" alt="Bug Tracker Pro — gestão de bugs" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro/blob/main/docs/demo.md"><img width="100%" src="https://raw.githubusercontent.com/guilhermeabaoliveira/bug-tracker-pro/main/docs/images/dashboard.jpg" alt="Aplicação real executada localmente com três registros fictícios; painel para registrar problemas e acompanhar severidades" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro/blob/main/docs/demo.md"><img src="https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-1f6feb?style=flat-square" alt="Ver captura e verificações da demonstração local" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro#execu%C3%A7%C3%A3o-local"><img src="https://img.shields.io/badge/Executar-142238?style=flat-square" alt="Como executar o Bug Tracker Pro" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro#api"><img src="https://img.shields.io/badge/API-142238?style=flat-square" alt="Documentação das rotas da API" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro"><img src="https://img.shields.io/badge/C%C3%B3digo-142238?style=flat-square" alt="Código do Bug Tracker Pro" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/Testes_de_API-1f6feb?style=flat-square" alt="Verificação automatizada de respostas HTTP" />
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/api-automated-tests"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeabaoliveira&amp;repo=api-automated-tests&amp;bg_color=0f1724&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=1f6feb&amp;hide_border=false&amp;border_radius=8&amp;description_lines_count=3" alt="API Automated Tests — verificar respostas de usuários e publicações no JSONPlaceholder" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/api-automated-tests/blob/main/docs/verification.md"><img src="https://img.shields.io/badge/Execu%C3%A7%C3%A3o_15%2F10%2F2026-5_testes_aprovados-142238?style=flat-square&amp;labelColor=1f6feb" alt="Registro de 15/10/2026: cinco testes aprovados" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/api-automated-tests#prepara%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/Executar-142238?style=flat-square" alt="Como executar os testes" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/api-automated-tests#escopo"><img src="https://img.shields.io/badge/Escopo-142238?style=flat-square" alt="Casos e verificações da suíte" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/api-automated-tests"><img src="https://img.shields.io/badge/C%C3%B3digo-142238?style=flat-square" alt="Código da suíte de testes" /></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/API_de_tarefas-1f6feb?style=flat-square" alt="Cadastro e consulta de tarefas" />
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeabaoliveira&amp;repo=minha-primeira-api&amp;bg_color=0f1724&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=1f6feb&amp;hide_border=false&amp;border_radius=8&amp;description_lines_count=3" alt="Minha Primeira API — cadastrar e consultar tarefas com persistência local" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api/blob/main/docs/example.md"><img src="https://img.shields.io/badge/Requisi%C3%A7%C3%B5es_e_respostas-1f6feb?style=flat-square" alt="Exemplo de cadastro e consulta verificado localmente" /></a>
-      <br><br>
-      <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api#prepara%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/Executar-142238?style=flat-square" alt="Como executar a API de tarefas" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api#rotas"><img src="https://img.shields.io/badge/Rotas-142238?style=flat-square" alt="Documentação das rotas" /></a>
-      <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api/blob/main/main.py"><img src="https://img.shields.io/badge/C%C3%B3digo-142238?style=flat-square" alt="Código da API de tarefas" /></a>
-    </td>
-  </tr>
+
+<table align="center">
+  <tr><td><b>Em andamento</b></td><td>Lidero o Grupo 12 de Projetos I na <a href="https://github.com/guilhermeabaoliveira/bussola-fluxo-urbano">Bússola de Fluxo Urbano</a></td></tr>
+  <tr><td><b>Entregue</b></td><td><a href="https://github.com/guilhermeabaoliveira/sentinela-log">SentinelaLog</a>, Fundamentos de Programação, novembro de 2026</td></tr>
+  <tr><td><b>Estudo</b></td><td><a href="https://github.com/guilhermeabaoliveira/bug-tracker-pro">Bug Tracker Pro</a>, <a href="https://github.com/guilhermeabaoliveira/minha-primeira-api">APIs com FastAPI</a> e <a href="https://github.com/guilhermeabaoliveira/api-automated-tests">testes automatizados</a></td></tr>
 </table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeabaoliveira/guilhermeabaoliveira/output/github-contribution-grid-snake-blue-dark.svg" />
