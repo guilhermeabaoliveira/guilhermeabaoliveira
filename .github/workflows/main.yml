@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-blue.svg?color_snake=%231f6feb&color_dots=%23e8eef7,%23c4d8f6,%2386b4f0,%234a8de0,%231f6feb
-            dist/github-contribution-grid-snake-blue-dark.svg?color_snake=%2358a6ff&color_dots=%23161b22,%2314243d,%231a3d6b,%231f6feb,%2358a6ff
+            dist/github-contribution-grid-snake-blue.svg?color_snake=%238e3a1f&color_dots=%23efe6d4,%23e3cfa7,%23cfa46b,%23b07a3a,%238e3a1f
+            dist/github-contribution-grid-snake-blue-dark.svg?color_snake=%23e0703a&color_dots=%23161b22,%232a2118,%235a3f22,%238e6230,%23d9a55b
       - name: Publish animations
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
