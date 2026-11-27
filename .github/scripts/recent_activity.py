@@ -78,28 +78,28 @@ def render(days):
         f'<desc id="desc">{escape(period)}. {total} contribuições. '
         f'{escape(description)}</desc>',
         '<rect x=".5" y=".5" width="849" height="229" rx="8" '
-        'fill="#0f1724" stroke="#1f6feb"/>',
+        'fill="#181410" stroke="#5a4326"/>',
         '<g font-family="Segoe UI,Arial,sans-serif">',
-        '<text x="26" y="33" fill="#58a6ff" font-size="18" '
+        '<text x="26" y="33" fill="#D9A55B" font-size="18" '
         'font-weight="600">Atividade nos últimos 31 dias</text>',
-        f'<text x="26" y="57" fill="#c9d1d9" font-size="13">'
+        f'<text x="26" y="57" fill="#ECE2CE" font-size="13">'
         f'{escape(period)} · {total} contribuições</text>',
     ]
     for fraction in (0, .5, 1):
         y = 180 - fraction * 100
-        svg.append(f'<path d="M50 {y}H820" stroke="#243249"/>')
+        svg.append(f'<path d="M50 {y}H820" stroke="#3a2f24"/>')
     for i, (day, count) in enumerate(days):
         x = 52 + i * 24.7
         height = 100 * count / maximum
         svg.append(
             f'<rect x="{x:.1f}" y="{180-height:.1f}" width="16" '
             f'height="{max(height, 2):.1f}" rx="2" '
-            f'fill="{"#58a6ff" if count else "#243249"}">'
+            f'fill="{"#D9A55B" if count else "#3a2f24"}">'
             f'<title>{day:%d/%m/%Y}: {count} contribuições</title></rect>'
         )
         if i in (0, 7, 14, 21, 30):
             svg.append(f'<text x="{x+8:.1f}" y="205" text-anchor="middle" '
-                       f'fill="#c9d1d9" font-size="12">{day:%d/%m}</text>')
+                       f'fill="#ECE2CE" font-size="12">{day:%d/%m}</text>')
     svg.extend(['</g>', '</svg>'])
     return "\n".join(svg) + "\n"
 
