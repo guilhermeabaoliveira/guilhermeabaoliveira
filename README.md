@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira"><img src="https://img.shields.io/badge/LinkedIn-D9A55B?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://guilhermeabaoliveira.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-D9A55B?style=for-the-badge" alt="Portfólio" /></a>
-  <a href="mailto:guilhermealcantara90@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D9A55B?style=for-the-badge" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/guilhermealcantarabatistaalencardeoliveira"><img src="https://img.shields.io/badge/LinkedIn-181410?style=for-the-badge&labelColor=181410" alt="LinkedIn" /></a>
+  <a href="https://guilhermeabaoliveira.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-181410?style=for-the-badge&labelColor=181410" alt="Portfólio" /></a>
+  <a href="mailto:guilhermealcantara90@hotmail.com"><img src="https://img.shields.io/badge/E--mail-181410?style=for-the-badge&labelColor=181410" alt="E-mail" /></a>
 </p>
 
 ## Sobre mim
