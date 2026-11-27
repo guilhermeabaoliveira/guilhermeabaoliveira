@@ -10,6 +10,8 @@
   <a href="mailto:guilhermealcantara90@hotmail.com"><img src="https://img.shields.io/badge/E--mail-181410?style=for-the-badge&labelColor=181410" alt="E-mail" /></a>
 </p>
 
+<p align="center"><b>Português</b> · <a href="README.en.md">English</a></p>
+
 ## Sobre mim
 
 Bacharel em Direito e estudante de **Ciência da Computação na CESAR School**. Desde 2023 construo projetos que juntam **hardware, software e IA**, e agora busco meu primeiro estágio na área.
