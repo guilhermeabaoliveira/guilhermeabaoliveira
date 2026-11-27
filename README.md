@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/hackwithdev/pixelartgifs#10"><img width="640" src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" alt="Pixel art animada de uma estação futurista com monitores holográficos e uma cidade ao fundo" /></a>
+  <a href="https://github.com/hackwithdev/pixelartgifs#27"><img width="640" src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="Pixel art animada de um programador à noite no quarto, com bonsai e a cidade na janela" /></a>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1800&amp;color=D9A55B&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Guilherme+Alc%C3%A2ntara;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+CESAR+School;Hardware%2C+software+e+IA" width="600" alt="Guilherme Alcântara · Ciência da Computação na CESAR School · Hardware, software e IA" /></a>
 </p>
